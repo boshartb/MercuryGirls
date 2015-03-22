@@ -2315,6 +2315,72 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/imagebackup\/pf1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.54176e+06,
+		"inputAbbreviatedPath": "\/imagebackup\/pf1.jpg",
+		"outputAbbreviatedPath": "\/imagebackup\/pf1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imagebackup\/pf2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 916630,
+		"inputAbbreviatedPath": "\/imagebackup\/pf2.jpg",
+		"outputAbbreviatedPath": "\/imagebackup\/pf2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imagebackup\/pf3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 827369,
+		"inputAbbreviatedPath": "\/imagebackup\/pf3.jpg",
+		"outputAbbreviatedPath": "\/imagebackup\/pf3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imagebackup\/pf4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.50089e+06,
+		"inputAbbreviatedPath": "\/imagebackup\/pf4.jpg",
+		"outputAbbreviatedPath": "\/imagebackup\/pf4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imagebackup\/pf5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 817095,
+		"inputAbbreviatedPath": "\/imagebackup\/pf5.jpg",
+		"outputAbbreviatedPath": "\/imagebackup\/pf5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/imagebackup\/pfheader.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37139,
+		"inputAbbreviatedPath": "\/imagebackup\/pfheader.png",
+		"outputAbbreviatedPath": "\/imagebackup\/pfheader.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/pf1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2370,6 +2436,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/pfheader-0.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 449586,
+		"inputAbbreviatedPath": "\/images\/pfheader-0.png",
+		"outputAbbreviatedPath": "\/images\/pfheader-0.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pfheader-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 361866,
+		"inputAbbreviatedPath": "\/images\/pfheader-1.png",
+		"outputAbbreviatedPath": "\/images\/pfheader-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pfheader-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 385350,
+		"inputAbbreviatedPath": "\/images\/pfheader-2.png",
+		"outputAbbreviatedPath": "\/images\/pfheader-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pfheader-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.14447e+06,
+		"inputAbbreviatedPath": "\/images\/pfheader-3.png",
+		"outputAbbreviatedPath": "\/images\/pfheader-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pfheader-4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.20646e+06,
+		"inputAbbreviatedPath": "\/images\/pfheader-4.png",
+		"outputAbbreviatedPath": "\/images\/pfheader-4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/pfheader.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2380,15 +2501,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/js\/base.js": {
 		"fileType": 64,
