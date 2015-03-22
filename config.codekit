@@ -2337,13 +2337,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/pf3.JPG": {
+	"\/images\/pf3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 827369,
-		"inputAbbreviatedPath": "\/images\/pf3.JPG",
-		"outputAbbreviatedPath": "\/images\/pf3.JPG",
+		"inputAbbreviatedPath": "\/images\/pf3.jpg",
+		"outputAbbreviatedPath": "\/images\/pf3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
