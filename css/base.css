@@ -1,8 +1,6 @@
 @charset "UTF-8";
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
-  color:white;
-  background: black;
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%; }
@@ -41,7 +39,7 @@ template {
   display: none; }
 
 a {
-  background-color: black; }
+  background-color: transparent; }
 
 a:active,
 a:hover {
@@ -1072,11 +1070,10 @@ html {
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 40px;
+  font-size: 14px;
   line-height: 1.428571429;
-  color: #white;
-  font-style: center;
-  background-color: black; }
+  color: #333333;
+  background-color: #fff; }
 
 input,
 button,
@@ -1105,7 +1102,7 @@ img {
 
 .img-responsive {
   display: block;
-  max-width: relative;
+  max-width: 100%;
   height: auto; }
 
 .img-rounded {
@@ -4194,11 +4191,10 @@ a.badge:hover, a.badge:focus {
   cursor: pointer; }
 
 .jumbotron {
-  text-align: center;
   padding: 30px 15px;
   margin-bottom: 30px;
-  color: white;
-  background-color: black; }
+  color: inherit;
+  background-color: #eeeeee; }
   .jumbotron h1,
   .jumbotron .h1 {
     color: inherit; }
@@ -4220,8 +4216,7 @@ a.badge:hover, a.badge:focus {
         padding-right: 60px; }
       .jumbotron h1,
       .jumbotron .h1 {
-        font-size: 153px;
-        font-style: center; } }
+        font-size: 63px; } }
 
 .thumbnail {
   display: block;
@@ -5640,13 +5635,14 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
-.jesuschrist {
-  background-color: black;
-  text-align: center;
-  width: 1000px;
-  height: 1000px;
-  color: green; }
+body {
+  background: black; }
 
-.g-background-default {
-  background-color: #070000;
-}
+.header {
+  padding: 0; }
+
+.p-image {
+  padding: 0; }
+
+.col-xs-12 {
+  padding: 0; }

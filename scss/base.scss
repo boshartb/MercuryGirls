@@ -1,8 +1,15 @@
 @import "../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
-.jesuschrist {
-  background-color: black;
-  text-align: center;
-  width: 1000px;
-  height: 1000px;
-  color: green;
+body{
+  background: black;
 }
+.header{
+  padding: 0;
+}
+
+.p-image{
+  padding: 0;
+}
+.col-xs-12{
+  padding: 0;
+}
+
